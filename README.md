@@ -1,2 +1,2 @@
-# GameBuddy
-an app for finding people to play online with. 
+# FriendFinder
+Week 13 Homework: Friend Finder
